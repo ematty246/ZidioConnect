@@ -104,7 +104,7 @@ ZIDIOConnect is a comprehensive platform designed to streamline the internship a
 
 - Emmanuel Matthew J
 - Bovas Kirubakaran D
-- Sivakumaran
+- Sasikumar
 - Vigneshvaran
 - Ramya Ambati
 - Musddiq
