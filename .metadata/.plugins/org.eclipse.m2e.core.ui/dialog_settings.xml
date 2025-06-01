@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\CentralisedConfiguration"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,13 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.zidio.connect"/>
+			<item value="com.tcf.config_server"/>
 		</list>
 		<list key="groupId">
-			<item value="com.zidio"/>
+			<item value="com.tcf"/>
 		</list>
 		<list key="artifactId">
-			<item value="connect"/>
+			<item value="config-server"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
